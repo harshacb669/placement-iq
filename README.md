@@ -33,12 +33,6 @@ placement_app/
 └── requirements.txt
 ```
 
-## Deploy to Streamlit Cloud (free)
-
-1. Push this folder to a GitHub repository
-2. Go to https://share.streamlit.io
-3. Click "New app" → select your repo → set `app.py` as the main file
-4. Click Deploy — you get a public URL in ~2 minutes
 
 ## Model performance
 | Metric | Score |
