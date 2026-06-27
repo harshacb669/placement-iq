@@ -45,6 +45,5 @@ placement_app/
 
 ## Dataset
 Synthetic dataset of 1,00,000 Indian engineering students with features across academic performance, technical skills, soft skills, and extracurricular activities.
-<img width="1920" height="1020" alt="Screenshot 2026-06-27 172841" src="https://github.com/user-attachments/assets/d9d05885-fc3e-4b99-b77e-60c799873994" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-27 172911" src="https://github.com/user-attachments/assets/60756a69-6284-46fb-9a4f-bbdf8a98cbc0" />
 <img width="1920" height="1020" alt="Screenshot 2026-06-27 174125" src="https://github.com/user-attachments/assets/7e2d6af3-477c-47e2-93ec-497f2f6d780b" />
